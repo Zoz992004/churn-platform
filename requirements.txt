@@ -1,0 +1,8 @@
+duckdb
+pandas
+sqlalchemy
+pymysql
+dbt-duckdb
+apache-airflow==2.9.3
+dash
+plotly
